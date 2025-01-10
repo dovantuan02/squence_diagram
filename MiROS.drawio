@@ -1,9 +1,60 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.4">
   <diagram name="Page-1" id="rvACWiU6GWW_KqskPlu7">
-    <mxGraphModel>
+    <mxGraphModel dx="2803" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-2" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;i&gt;Thread Size&lt;/i&gt;&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R4&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;&lt;br&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="120" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-3" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;R5&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R6&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R7&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="199" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-4" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;R8&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R9&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R10&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="318" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-5" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;R11&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R0&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R1&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="437" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-6" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;R2&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R3&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;R12&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="556" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-7" value="&lt;table border=&quot;1&quot; width=&quot;100%&quot; height=&quot;100%&quot; cellpadding=&quot;4&quot; style=&quot;width:100%;height:100%;border-collapse:collapse;&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th align=&quot;center&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;LR&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;PC&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td align=&quot;center&quot;&gt;xPSR&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;overflow=fill;" vertex="1" parent="1">
+          <mxGeometry x="-494.25" y="676" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-8" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;flipV=1;flipH=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="473.5" width="595" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-12" value="64 bytes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=270;" vertex="1" parent="1">
+          <mxGeometry x="-584.25" y="520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;flipV=1;flipH=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-391.18" y="547.31" width="119.62" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-14" value="Calculate Register" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-374.25" y="545" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;flipV=1;flipH=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-472.96" y="306.72" width="283.18" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-16" value="Saved Registers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-374.25" y="301.72" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-17" value="Link Register" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-344.25" y="680" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-18" value="Program Status Register" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-344.25" y="760" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-19" value="Program Counter" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-344.25" y="721" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-20" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Customize Size depend on complex in function&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-634.25" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3iZv6iOAnDqDTb80bWMC-21" value="Intra Procedure Call Register" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="-344.25" y="640" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
